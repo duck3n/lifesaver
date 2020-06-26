@@ -26,6 +26,7 @@
                 output = document.getElementById("output");
 
             }
+            //확인용
 
             function send_message() {
 
